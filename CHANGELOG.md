@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## What's Changed
+* build(deps-dev): bump eslint-plugin-promise from 6.0.0 to 6.1.1 by @dependabot in https://github.com/zachowj/node-red-contrib-home-assistant-websocket/pull/729
+* build(deps-dev): bump postcss from 8.4.14 to 8.4.18 by @dependabot in https://github.com/zachowj/node-red-contrib-home-assistant-websocket/pull/728
+* build(deps): bump joi from 17.6.2 to 17.6.4 by @dependabot in https://github.com/zachowj/node-red-contrib-home-assistant-websocket/pull/727
+* build(deps-dev): bump rollup from 2.77.0 to 2.79.1 by @dependabot in https://github.com/zachowj/node-red-contrib-home-assistant-websocket/pull/726
+* build(deps): bump axios from 0.27.2 to 1.1.3 by @dependabot in https://github.com/zachowj/node-red-contrib-home-assistant-websocket/pull/730
+
+
+**Full Changelog**: https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.46.2...v0.47.0
+
 ## [0.46.2](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.46.1...v0.46.2) (2022-10-31)
 
 
